@@ -1,0 +1,740 @@
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 708ms (Views: 708.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 23ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 23ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 23ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 22ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+Completed 500 Internal Server Error in 11ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 22ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 22ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 25ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 22ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 22ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 22ms (Views: 21.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 22ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 22ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 22ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 22ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 22ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 22ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+StaticpagesControllerTest: test_should_get_contact
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 22ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+StaticpagesControllerTest: test_should_get_contact
+--------------------------------------------------
+Processing by StaticpagesController#contact as HTML
+  Rendered staticpages/contact.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+StaticpagesControllerTest: test_should_get_contact
+--------------------------------------------------
+Processing by StaticpagesController#contact as HTML
+  Rendered staticpages/contact.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 6015ms (Views: 6014.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 6043ms (Views: 6042.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+StaticpagesControllerTest: test_should_get_contact
+--------------------------------------------------
+Processing by StaticpagesController#contact as HTML
+  Rendered staticpages/contact.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+UsersControllerTest: test_should_get_new
+----------------------------------------
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.8ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 4316ms (Views: 4315.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+StaticpagesControllerTest: test_should_get_contact
+--------------------------------------------------
+Processing by StaticpagesController#contact as HTML
+  Rendered staticpages/contact.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+UsersControllerTest: test_should_get_new
+----------------------------------------
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 90ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+StaticpagesControllerTest: test_should_get_contact
+--------------------------------------------------
+Processing by StaticpagesController#contact as HTML
+  Rendered staticpages/contact.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (171.3ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "pass" decimal, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (191.1ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (0.3ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (131.6ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.3ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (143.4ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150321075339')
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mFixture Delete (0.4ms)[0m  [1mDELETE FROM "users"[0m
+  [1m[35mFixture Insert (53.8ms)[0m  INSERT INTO "users" ("name", "pass", "created_at", "updated_at", "id") VALUES ('MyString', 9.99, '2015-03-21 08:10:39', '2015-03-21 08:10:39', 980190962)
+  [1m[36mFixture Insert (0.1ms)[0m  [1mINSERT INTO "users" ("name", "pass", "created_at", "updated_at", "id") VALUES ('MyString', 9.99, '2015-03-21 08:10:39', '2015-03-21 08:10:39', 298486374)[0m
+  [1m[35m (167.4ms)[0m  commit transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+UsersControllerTest: test_should_get_new
+----------------------------------------
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 99ms (Views: 99.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_help
+-----------------------------------------------
+Processing by StaticpagesController#help as HTML
+  Rendered staticpages/help.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+StaticpagesControllerTest: test_should_get_contact
+--------------------------------------------------
+Processing by StaticpagesController#contact as HTML
+  Rendered staticpages/contact.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------
+StaticpagesControllerTest: test_should_get_about
+------------------------------------------------
+Processing by StaticpagesController#about as HTML
+  Rendered staticpages/about.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+StaticpagesControllerTest: test_should_get_home
+-----------------------------------------------
+Processing by StaticpagesController#home as HTML
+  Rendered staticpages/home.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
